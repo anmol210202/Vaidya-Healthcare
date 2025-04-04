@@ -2,11 +2,11 @@
 # A Group Project By Student of IIIT Sri City.
 GROUP 41
 MEMBERS - 
+ANMOL SINGH
 SUDEEP GANGWAR
 GULSHAN KUMAR
 NITIGYA JOSHI
 ARYAN VERMA
-ANMOL SINGH
 
 Steps to run on production environment : 
 - go to the client folder
